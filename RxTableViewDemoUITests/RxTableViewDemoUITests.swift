@@ -1,9 +1,7 @@
 //
 //  RxTableViewDemoUITests.swift
 //  RxTableViewDemoUITests
-//
-//  Created by Naresh Motwani on 05/02/21.
-//
+
 
 import XCTest
 
